@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hawktrack SMS Service</string>
+    <string name="url">http://jksdua.asia:6767</string>
+    <string name="send_path">/send-sms</string>
+    <string name="send_interval">30</string>
+    <string name="received_path">/received-sms</string>
+    <string name="username">device_1</string>
+    <string name="password">device_1</string>
+    <string name="title_section1">Logs</string>
+
+</resources>
